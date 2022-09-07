@@ -76,7 +76,7 @@ For more information about risk events, see [Azure Active Directory Identity Pro
 | mcasSuspiciousInboxManipulationRules | Suspicious inbox manipulation rules | Discovered by Microsoft Defender for Cloud Apps (MDCA). Identifies suspicious email forwarding rules, for example, if a user created an inbox rule that forwards a copy of all emails to an external address.|
 | suspiciousInboxForwarding | Suspicious inbox forwarding | This detection is discovered by Microsoft Cloud App Security (MCAS). It looks for suspicious email forwarding rules, for example, if a user created an inbox rule that forwards a copy of all emails to an external address. |
 | unknownFutureValue | N/A | Evolvable enumeration sentinel value. Do not use. |
-
+|Anomalous user activity|
 ### riskReasons values
 
 | riskEventType | Value | UI display string |
